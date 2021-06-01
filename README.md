@@ -10,3 +10,5 @@
 ![growth-mindset-Image](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
 
 visit this [link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) to know mora about growth mindset
+https://github.com/IbrahimSaleh-995 
+Hello, my name is Ibrahim Saleh , I'm 26 years old, I graduated as a civil engineer from Al-Ahliyya Amman University and I am here to learn programming to help me find the right job for my personality
