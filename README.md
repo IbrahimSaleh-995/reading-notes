@@ -6,3 +6,4 @@ table of content
 |---------|--------|
 | read:01 | [link](read01.md) |
 | lab:01  | [link](lab01.md) |
+| read:02 | [link](read02.md) |
